@@ -25,7 +25,7 @@ The python solution uses psycopg2 module. So, this needs to be setup in local ma
 
 Installation?
 
-Pull the latest repository to local after setting up PostgreSQL DB and Psycopg2 Python API. Please use Python 2.7 for running this solution.
+Clone the repository to local after setting up PostgreSQL DB and Psycopg2 Python API. Please use Python 2.7 for running this solution.
 
 
 
